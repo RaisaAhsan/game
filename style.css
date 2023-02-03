@@ -1,5 +1,5 @@
 #topNav {
-  background: dimgray;
+  background: #455a64;
   box-shadow: 0px 1px 10px 10px lightgray;
     /* offset-x | offset-y | blur-radius | spread-radius | color */
   height: auto;
@@ -20,7 +20,7 @@
   transition: color 0.3s ease-in;  /*  property | time | method  */
 }
 #topNav a:hover {
-  color: lime;
+  color: #643B9F;
 }
 
 
@@ -30,5 +30,5 @@ body {
     margin-right: auto;
 }
 body {
-  background-image: url("BackgroundWebsite.jpg");
+  background-color: #152238;
 }
